@@ -12,12 +12,7 @@
       "required_approving_review_count": 1
     },
     "enforce_admins": true,
-    "restrictions": {
-      "users": [
-      ],
-      "teams": [
-      ]
-    }
+    "restrictions": null
   },
   "master": {
     "required_status_checks": {
@@ -32,11 +27,6 @@
       "required_approving_review_count": 1
     },
     "enforce_admins": true,
-    "restrictions": {
-      "users": [
-      ],
-      "teams": [
-      ]
-    }
+    "restrictions": null
   }
 }
